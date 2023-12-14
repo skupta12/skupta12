@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **my code to improve my skills**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: tosya2001@gmail.com</h3>
 <p align="left">
 </p>
 
