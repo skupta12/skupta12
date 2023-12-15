@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Igor</h1>
 <h3 align="center">A passionate frontend developer from Lithuania</h3>
 
-- 🔭 I’m currently working on **Upwork**
+- 🔭 "I'm currently working on projects on Upwork."
 
-- 🌱 I’m currently learning **Sass, React and Next JS**
+- 🌱 "I'm currently expanding my skills in **Sass, React, and Next.js."**
 
-- 👯 I’m looking to collaborate with **some frontend developers**
+- 👯 "I'm seeking collaboration opportunities with experienced **frontend developers."**
 
-- 🤝 I’m looking for help with **my code to improve my skills**
+- 🤝 "I'm seeking assistance to enhance my coding skills and **improve my code quality."**
 
 <h3 align="left">Connect with me: tosya2001@gmail.com</h3>
 <p align="left">
