@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Igor</h1>
-<h3 align="center">A creative frontend developer from Vilnius, Lithuania</h3>
+<h3 align="center">A creative front end developer from Vilnius, Lithuania</h3>
 
 - 🔭 "I'm currently working on Upwork."
 
