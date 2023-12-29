@@ -5,8 +5,6 @@
 
 - 🌱 "I'm currently expanding my skills in **Sass, React, and Next.js."**
 
-- 👯 "I'm seeking collaboration opportunities with experienced **frontend developers."**
-
 - 🤝 "I'm seeking assistance to enhance my coding skills and **improve my code quality."**
 
 <h3 align="left">Connect with me: tosya2001@gmail.com</h3>
