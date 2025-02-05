@@ -3,9 +3,9 @@
 
 <br/>
 
-- 🌱 <h4>"I'm currently expanding my skills in **Sass, React, and Next.js."**</h4>
+ <h4>- 🌱 "I'm currently expanding my skills in **Sass, React, and Next.js."**</h4>
 
-- 🤝<h4> "I'm seeking assistance to enhance my coding skills and **improve my code quality."**</h4>
+<h4>- 🤝 "I'm seeking assistance to enhance my coding skills and **improve my code quality."**</h4>
 
 <h3 align="center">Connect with me: tosya2001@gmail.com</h3>
 
