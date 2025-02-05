@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Igor</h1>
 <h3 align="center">A creative front end developer from Vilnius, Lithuania</h3>
 
+<br/>
 
 - 🌱 "I'm currently expanding my skills in **Sass, React, and Next.js."**
 
