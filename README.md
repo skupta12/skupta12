@@ -5,7 +5,7 @@
 
 <h4 align="center">- 🤝 "I'm seeking assistance to enhance my coding skills and improve my code quality.</h4>
 
-<h3 align="center">Connect with me: tosya2001@gmail.com</h3>
+<h3 align="center">Connect with me: migothemes@gmail.com</h3>
 
 <h4 align="center">Programming languages and tools:</h4>
 <div align="center">
